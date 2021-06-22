@@ -1,0 +1,17 @@
+{
+    "Bot_Info": {
+        "prefix": "XDD"
+    },
+
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+
+   "Giveaway_Options": {
+    "giveawayRoleID": "793186252119474207",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+}
+
+}   
